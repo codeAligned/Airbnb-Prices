@@ -1,4 +1,4 @@
-# Kaggle-Competition--Predicting-Airbnb-Rental-Prices
+# Kaggle Competition: Predicting Airbnb Rental Prices
 
 ## How much for your Airbnb? <br>
 ###### Use renter information, property characteristics and reviews to predict rental price <br>
